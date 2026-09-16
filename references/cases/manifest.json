@@ -1,0 +1,122 @@
+[
+  {
+    "case": "S1-structure",
+    "source": "../closed-baseline-front.jpg",
+    "source_size": [
+      3200,
+      1440
+    ],
+    "crop_box": [
+      960,
+      346,
+      2272,
+      677
+    ],
+    "crop": "S1-structure-crop.png"
+  },
+  {
+    "case": "S2-detail",
+    "source": "../closed-baseline-detail.jpg",
+    "source_size": [
+      3200,
+      1440
+    ],
+    "crop_box": [
+      1216,
+      403,
+      3136,
+      749
+    ],
+    "crop": "S2-detail-crop.png"
+  },
+  {
+    "case": "S3-scale",
+    "source": "../feather-scale-approved.png",
+    "source_size": [
+      941,
+      1672
+    ],
+    "crop_box": [
+      320,
+      109,
+      565,
+      242
+    ],
+    "crop": "S3-scale-crop.png"
+  },
+  {
+    "case": "F1-prone",
+    "source": "F1-prone-source.png",
+    "source_size": [
+      1536,
+      1024
+    ],
+    "crop_box": [
+      154,
+      133,
+      768,
+      410
+    ],
+    "crop": "F1-prone-crop.png"
+  },
+  {
+    "case": "F2-seams",
+    "source": "F2-seams-source.png",
+    "source_size": [
+      941,
+      1672
+    ],
+    "crop_box": [
+      301,
+      100,
+      612,
+      251
+    ],
+    "crop": "F2-seams-crop.png"
+  },
+  {
+    "case": "F3-suisui",
+    "source": "F3-suisui-source.png",
+    "source_size": [
+      941,
+      1672
+    ],
+    "crop_box": [
+      339,
+      109,
+      574,
+      284
+    ],
+    "crop": "F3-suisui-crop.png"
+  },
+  {
+    "case": "F4-wrap",
+    "source": "F4-wrap-source.png",
+    "source_size": [
+      941,
+      1672
+    ],
+    "crop_box": [
+      348,
+      92,
+      583,
+      251
+    ],
+    "crop": "F4-wrap-crop.png"
+  },
+  {
+    "case": "F5-open",
+    "source": "F5-open-source.png",
+    "source_size": [
+      941,
+      1672
+    ],
+    "crop_box": [
+      245,
+      117,
+      602,
+      259
+    ],
+    "crop": "F5-open-crop.png"
+  }
+]

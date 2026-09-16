@@ -1,0 +1,25 @@
+# 参考登记：各图只负责指定维度
+
+## 默认查看
+
+- [认可尺寸](feather-scale-approved.png)：用户明确认可的头部相对尺度。不是所有 Form 的样图，也不是完整图像质量的通用金标准。详见 [尺寸规则](feather-scale.md)。
+- [结构正面](closed-baseline-front.jpg)、[结构近景](closed-baseline-detail.jpg)：用户认可的收束形状，提供完整羽面、顺向叠层与中央过渡；不沿用其大跨度。
+- [视频侧面](closed-baseline-video-side.jpg)：原视频约28秒，辅助观察侧视与空间层次；有裁切，不作为完整入镜验收例。不能据此确认原作者制作工艺或逐帧稳定性。
+
+查看时区分人物、头发、尖耳、头冠和羽片。只继承指定维度，不复制字幕、脸、衣服和背景。认可图中央也有汇合和小装饰，不能把这些特征本身当作失败。
+
+## 历史资源：非默认生成参考
+
+以下文件保留用于追溯，不因文件名 approved 就视为当前全项通过：
+
+- [旧外展1](feather-extended-approved-1.png)、[旧薄长2](feather-extended-approved-2.png)、[旧多层3](feather-extended-approved-3.png)、[旧外延4](feather-extended-approved-4.png)：旧形态探索，当前尺度和眼形标准须另查；不能声称是本轮规则的成功图。
+- [旧短羽反例](feather-eye-patch-rejected.png)：只用于辨别外延不足，不能据此推导“所有短小羽饰都失败”。
+- [旧室内配色](connector-color-indoor.png)、[旧室外配色](connector-color-outdoor.png)：仅可观察服饰材料关系，不继承其结构、眼位、饰件位置或尺寸。当前配饰直接从目标服装推导。
+
+## 失败证据
+
+[案例对照登记](case-evidence.md) 保存局部、原图及证据范围。不得将失败图作为新的羽饰正向参考。诊断机制见 [eye-seam-repair.md](eye-seam-repair.md)，正向构造统一在 [form-family.md](form-family.md)。
+
+## 连接与配色参考
+
+以当前服装而非旧图为主：白金刺绣可用细金连接；蓝白冷色服装可用协调浅蓝和细银/服装已有金属；玉饰可用小玉连接；深色服装可用深色羽面与微量辅色。场景只微调光色。中央连接配饰必须有且可辨认，具体材料不强制为金线、玉或白色；精细装饰不得成为眼形框或遮没羽片。隐藏的是承托，不是中央配饰。
