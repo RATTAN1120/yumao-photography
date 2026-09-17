@@ -10,15 +10,16 @@
 
 款式选择由服装推导，负面词只约束眼睛意象与实际结构失败。不要默认禁止宝石、方形、菱形、花丝、曲线、结饰或复杂配饰，也不要将“素面方扣、无宝石”视为通用修复。设计同质化应在方案比较阶段重设计，不能靠追加“禁止重复”代替具体正向方案。
 
-材质负面词随当前方案选择：金属羽不禁止金属、硬质薄片或定向反光；琉璃羽不禁止折射；元素羽不笼统禁止特效、发光或粒子。真人皮肤的 plastic skin 等限制不得扩展到饰件。可分别限制厚重整块壳体取代独立羽片、透明材料透出眼部、过曝掩盖结构、无羽形的烟团以及不符合选定材料的绒毛。隐藏底框约束不禁止贴在羽面上的可见金银装饰丝线。结构锚点缺失指没有与所选布局一致的可辨汇合或固定区域，不等于没有独立扣件；不要用负面词强迫生成珍珠或胸针。
+材质负面词随当前方案选择：金属羽不禁止金属、硬质薄片或定向反光；陶瓷与玉石不禁止硬质雕片、釉面、裂纹、半透明和内反射；枝丫结构不禁止木质分叉、藤蔓或叶羽单元；琉璃羽不禁止折射；元素羽不笼统禁止特效、发光、烟雾、液体或粒子，也不强迫生成实体底板。真人皮肤的 plastic skin 等限制不得扩展到饰件。应限制厚重整块壳体取代多个羽形单元、所选遮挡机制不足而露出眼部、靠过曝或模糊掩盖眼睛、无羽形的烟团或光带，以及不符合选定材料的绒毛。隐藏底框约束不禁止贴在羽面上的可见金银装饰丝线。结构锚点缺失指没有与所选布局一致的可辨汇合、固定或幻想凝聚区域，不等于没有独立扣件；不要用负面词强迫生成珍珠或胸针。
 
 按失败类别补充：
 
 - 接缝：opposing feather edges enclosing almond shapes。
+- 单片与受光：eye-like contours formed by a single vane, eyelid-like folds or hems, long curved shadows or highlights forming eye imagery。仅针对当前失败选用；不泛化为禁止所有渐尖羽片、织纹、折射、阴影或高光。先在正向重组实际边界、线脊与受光，不能靠追加本项代替结构修订。
 - 框与填充：gold-outlined eye shapes, pale eye-shaped inlays。
 - 色差：paired contrasting spindle-shaped patches over the eyes。
 - 装饰：missing selected structural anchor, selected anchor hidden by feathers or hair, oversized ornament obscuring feather structure。centered 布局可写 missing central decorative connector；布局01–10改为对应侧部锚点，不得同时强制中央扣件。装饰缺失约束不能替代正向的具体材质、造型、位置和固定方式。
-- 侧源布局：feathers growing biologically from the ear, temple or skin, floating lateral ornament with no attachment, one eye exposed, near-side eye exposed, far-side eye exposed, discontinuous coverage across the nose bridge, a single giant feather crossing both eyes, accidental symmetric eye frames, lateral flow collapsing into a headband。布局10另加 effects replacing the opaque eye-covering layer, glare used to hide exposed eyes, elemental plume losing all feather-shaped structure。
+- 侧源布局：feathers growing biologically from the ear, temple or skin, floating lateral ornament with no attachment or coherent fantasy origin, one eye exposed, near-side eye exposed, far-side eye exposed, discontinuous coverage across the nose bridge, a single giant feather crossing both eyes, accidental symmetric eye frames, lateral flow collapsing into a headband。布局10按实际材料补充 insufficient material density over the eye region, glare or blur used to hide exposed eyes, elemental plume losing all feather-shaped or feather-flow structure, unrelated solid backing automatically inserted beneath an elemental design。
 
 不是一律禁止中央珠宝、金银线、辅色、对称、羽轴和阴影；它们不得在整个眼羽及配饰上构成任何眼睛意象，即使单侧、非闭合或不在真实眼位也不例外。不要使用泛化的 butterfly-shaped 或 wing-shaped 禁掉已认可的整体外轮廓；另按当前 Form 限制实际形态偏离。
 

@@ -112,6 +112,7 @@ $yumao-photography 检查这张图的眼羽覆盖、眼睛意象、结构锚点�
 - [用户手册](USER_GUIDE.md)：快速上手、布局编号选择与反馈方法。
 
 - [技能完整规则](SKILL.md)：身份、服装、摄影、输出与检查流程。
+- [独立交付与描述一致性](references/prompt-handoff.md)：跨工具使用、材质与光影配合、参考依赖及组图固定项检查。
 - [用法与数量规则](references/usage.md)：调用方式、组图一致性与数量解释。
 - [羽饰构造](references/form-family.md) · [尺寸规则](references/feather-scale.md)：四形态与尺度依据。
 - [负面约束](references/negative-prompts.md) · [眼羽问题诊断](references/eye-seam-repair.md) · [人体一致性](references/anatomy-integrity.md)：常见失败与检查方法。
