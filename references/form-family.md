@@ -4,21 +4,23 @@
 
 ## 共同覆盖：所有形态必用
 
-一个连续的浅层多羽片表面跨过鼻梁及眼区，与外羽平滑衔接。主羽相对辅羽更长，不等于横向无限延伸。中央保留自然汇合，并必须有一个可辨认的配饰连接左右眼羽，不按左右眼睛分别建模。
+一个连续的浅层多羽片表面跨过鼻梁及眼区，与外羽平滑衔接。主羽相对辅羽更长，不等于横向无限延伸。默认 centered 布局在中央自然汇合并保留可辨认的连接；布局01–10按 [侧源非对称布局](side-origin-layouts.md) 保留可辨认的侧部锚点，不按左右眼睛分别建模。
 
-保持羽片纹理和短小分散的层间阴影；较完整的羽面跨过可能成眼形的缝，打断相对羽缘围成的长梭形区域。薄不等于根部覆盖不足，小尺寸优先调外延而非把根部统一缩到露眼。承托在羽毛背面完全隐藏；不能在羽毛下额外生成可见眼孔面具。
+保持所选材质的羽片表面细节和短小分散的层间阴影；较完整的羽面跨过可能成眼形的缝，打断相对羽缘围成的长梭形区域。薄不等于根部覆盖不足，小尺寸优先调外延而非把根部统一缩到露眼。承托在羽毛背面完全隐藏；不能在羽毛下额外生成可见眼孔面具。
 
-配色取自主服装，允许自然高光与颜色变化；整个眼羽与配饰均遵守 SKILL.md 的眼睛意象零容许规则，不限眼位、成对或闭合形状。羽面、接缝与明暗只呈现羽毛层次，不形成闭眼线或任何眼睛符号。中央配饰按服饰自动设计，必须可见且不呈眼形；颜色和材料可以变化，中央位置与必选要求不变。侧饰不能替代它。
+配色取自主服装，允许自然高光与颜色变化；整个眼羽与配饰均遵守 SKILL.md 的眼睛意象零容许规则，不限眼位、成对或闭合形状。羽面、接缝与明暗只呈现羽毛层次，不形成闭眼线或任何眼睛符号。所选布局的结构锚点按服饰自动设计，必须可见且不呈眼形；centered 使用中央连接，布局01–10使用对应侧部锚点。
 
 共同中文构造块（默认使用；每条填写实际颜色、材质与饰件方案，随后接一个形态路径）：
 
-多枚独立羽片以适中的头部相对尺度，形成跨过鼻梁并连续延伸至两侧太阳穴的浅层佩戴式覆盖面。较完整的羽面错位搭接，每段短接缝的末端藏在相邻完整羽面下，保留清楚的羽毛纹理和短小分散的层间阴影。真实眼睛、眼睑和睫毛完全遮住；整个羽饰及配饰不出现任何可读为眼睛的形状、线条或图案。较短辅羽承接较长且逐渐收尖的主羽，保持独立羽片与适中外延。所有承托藏在羽片背面，下缘和侧缘也不露出底座。鼻梁上方的中央交接表面放置一枚小而清楚可见的连接饰件，材质、颜色和工艺呼应服装，造型与纹样不呈眼睛意象；饰件覆在连续羽面上，不切开覆盖层。
+多枚独立羽片以适中的头部相对尺度，形成跨过鼻梁并连续延伸至两侧太阳穴的浅层佩戴式覆盖面。较完整的羽面错位搭接，每段短接缝的末端藏在相邻完整羽面下，保留清楚的羽片主轴、羽面方向、所选材质的表面细节和短小分散的层间阴影。真实眼睛、眼睑和睫毛完全遮住；整个羽饰及配饰不出现任何可读为眼睛的形状、线条或图案。较短辅羽承接较长且逐渐收尖的主羽，保持独立羽片与适中外延。所有承托藏在羽片背面，下缘和侧缘也不露出底座。所选布局的结构锚点清楚可辨：centered 在鼻梁上方形成中央装饰连接区域，布局01–10则在指定侧源位置连接发饰、头带、冠侧构件或隐藏承托并展开对应羽流路径；具体材质、颜色与线条取自服装，造型与纹样不呈眼睛意象，装饰覆在连续羽面上，不切开覆盖层。
 
 英文等义构造块（仅英文输出使用；与中文块二选一，不双语堆叠）：
 
-A moderately proportioned wearable feather covering forms one continuous, shallow layered surface across the bridge and both temples. Intact feather vanes overlap across the covered facial area, with short staggered seams interrupted by neighboring vanes. The visible surface reads solely as layered feathers with fine texture and distributed soft relief, while both eyes, eyelids and eyelashes remain completely concealed. Throughout the entire feather covering and its ornaments, feather arrangements, seams, shadows, colors and motifs are free of any recognizable eye imagery, including closed-eye lines, eye-shaped outlines, eyespots and abstract eye symbols. A small, clearly discernible decorative connector sits on the continuous feather surface at the central junction above the nose bridge, joining the left and right feather sections. Its non-eye-shaped design, material, color and craftsmanship echo the outfit. Any structural support is entirely behind the feathers, including at the lower and side edges; the central decorative connector remains visible. Feather sizes follow the approved head-relative scale, with clear shorter supporting vanes and longer tapered primary vanes.
+A moderately proportioned wearable feather covering forms one continuous, shallow layered surface across the bridge and both temples. Intact feather vanes overlap across the covered facial area, with short staggered seams interrupted by neighboring vanes. The visible surface reads as distinct layered feather-shaped vanes with tapered tips, directional structure, material-specific detail and distributed shallow relief, while both eyes, eyelids and eyelashes remain completely concealed. Throughout the entire feather covering and its ornaments, feather arrangements, seams, shadows, colors and motifs are free of any recognizable eye imagery, including closed-eye lines, eye-shaped outlines, eyespots and abstract eye symbols. The selected layout has one clearly discernible structural anchor: the centered layout uses a decorative junction above the nose bridge, while layouts 01–10 use the specified lateral origin attached to a hair ornament, headband, crown-side component or concealed support and follow the corresponding asymmetric path. Its non-eye-shaped design, material, color, linework and craftsmanship derive from specific outfit details. Any structural support is entirely behind the feathers, including at the lower and side edges; the selected decorative anchor remains visible. Feather sizes follow the approved head-relative scale, with clear shorter supporting vanes and longer tapered primary vanes.
 
-上述中英文块只固定覆盖、尺度与中央位置，不固定羽片细节和饰件款式；输出时将颜色、羽片节奏、中央造型、工艺及可选延伸装饰按服饰推导结果具体展开，不能保留“呼应服装”作为空泛占位。中央连接可以是表面装饰连续汇合的小结点，不要求独立几何牌，中英文输出遵循同一规则。不要将诊断文件中多个补丁再次拼在本块后。不能只复制本块，必须接目标路径和配色饰件的实际内容。
+上述中英文块只固定覆盖、尺度与所选锚点，不固定天然羽毛材质、羽片细节和饰件款式；输出时将颜色、羽片节奏、锚点造型、布局路径、工艺及可选延伸装饰按服饰推导结果具体展开，不能保留“呼应服装”作为空泛占位。连接可以是表面装饰连续汇合的小结点，不要求独立几何牌，中英文输出遵循同一规则。不要将诊断文件中多个补丁再次拼在本块后。不能只复制本块，必须接目标布局、形态路径和配色饰件的实际内容。
+
+材料转译遵从主文件“材质开放与连接设计”：天然羽使用羽丝细节，金属、织物、琉璃及元素羽改用相应表面和受光描述，不机械保留天然绒毛。所有材料均保留连续不透视的眼区覆盖；透明外羽或消散羽端不替代覆盖层。共同块中的“佩戴式”指贴合脸部的装饰关系，允许明确的幻想凝聚结构，不要求元素羽伪装成现实制品。
 
 ## 每条只选对应路径
 
@@ -35,7 +37,7 @@ A moderately proportioned wearable feather covering forms one continuous, shallo
 
 | 形态 | 适配方式与边界 |
 | --- | --- |
-| 收束 | 将服装的线纹、织带或枝蔓节奏顺着低张角羽流组织，中央连接紧凑；不因增加装饰变成大幅扇开。 |
+| 收束 | 将服装的线纹、织带或枝蔓节奏顺着低张角羽流组织，所选锚点紧凑；不因增加装饰变成大幅扇开。 |
 | 开羽 | 将服装的放射纹、裙褶或层次节奏转成外羽分组，装饰随展开方向分布；中央覆盖连续，不堆成厚羽团。 |
 | 垂羽 | 将衣料垂坠、结饰或珠链节奏转成递长、连续下弯的羽组；链饰仅为辅助，不能用吊坠替代垂羽。 |
 | 环覆 | 将领缘、肩线或藤蔓走向转成沿太阳穴向头侧后掠的羽流与装饰；保留弧向长度，不能只转头或贴一块太阳穴饰片。 |
@@ -44,6 +46,6 @@ A moderately proportioned wearable feather covering forms one continuous, shallo
 
 ## 使用与检查
 
-输出顺序：共同覆盖 + 当前路径 + 实际服饰配色/连接。先确认遮挡与表面连续性，再添加外侧形态；这个顺序是规划流程，不是模型因果保证。使用羽饰参考图时说明它负责结构还是尺寸；若用户只把文字传给另一生成器，则模型没有访问本技能图片，不能写“精确沿用参考”当作已发生的图像约束。
+输出顺序：共同覆盖 + 当前布局路径 + 当前形态路径 + 实际服饰配色/锚点。先确认遮挡与表面连续性，再添加外侧形态；这个顺序是规划流程，不是模型因果保证。使用羽饰参考图时说明它负责结构还是尺寸；若用户只把文字传给另一生成器，则模型没有访问本技能图片，不能写“精确沿用参考”当作已发生的图像约束。
 
 同一服装的四形态系列可共用羽片设计语言和工艺，不同独立造型不必共用羽片形状、连接款式或工艺；均不强求同一正面跨度或外接框。开羽允许更大角度但不默认更长羽片；垂羽允许下落，环覆允许透视缩短。统一按主文件处理 strict/adaptive/free 与写真集复用、换装衍生规则。
