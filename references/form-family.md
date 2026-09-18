@@ -21,15 +21,15 @@
 
 ## 共同构造的具体化输出
 
-共同中文构造块（语义骨架；结合上述关系与实际材质改写，随后接一个形态路径）：
+共同中文构造骨架（结合实际材质改写，随后接一个形态路径；默认压缩成二至三句，不逐项复制内部检查内容）：
 
-多枚独立羽片以适中的头部相对尺度，形成跨过鼻梁并连续延伸至两侧太阳穴的浅层佩戴式覆盖面。较完整的羽面错位搭接，每段短接缝的末端藏在相邻完整羽面下，保留清楚的羽片主轴、羽面方向、所选材质的表面细节和短小分散的层间阴影。完整羽面跨过眼区，单片边缘与相邻羽缘错开，不在眼位上下相向收尖；可见线脊与卷边依羽流分段衔接，所选光照下的层间投影短而分散。真实眼睛、眼睑和睫毛完全遮住；整个羽饰及配饰不出现任何可读为眼睛的形状、线条或图案。较短辅羽承接较长且逐渐收尖的主羽，保持独立羽片与适中外延。所有承托藏在羽片背面，下缘和侧缘也不露出底座。所选布局的结构锚点清楚可辨：centered 在鼻梁上方形成中央装饰连接区域，布局01–10则在指定侧源位置连接发饰、头带、冠侧构件或隐藏承托并展开对应羽流路径；具体材质、颜色与线条取自服装，造型与纹样不呈眼睛意象，装饰覆在连续羽面上，不切开覆盖层。
+多枚独立羽形单元错位搭接，形成跨过鼻梁并连续覆盖整个眶区的浅层表面；完整单元跨压可能形成眼形的缝隙，真实眼部完全不可见，整个眼羽及配饰不出现任何眼睛意象。所选布局的结构锚点清楚连接发饰、头带、冠侧构件或幻想凝聚点，并沿对应路径展开；承托隐藏，锚点装饰不切开连续覆盖层。再按实际材料补充一种决定遮挡与质感的机制，并接当前形态的外侧羽流变化。
 
-英文等义构造块（仅英文输出使用；与中文块二选一，不双语堆叠）：
+英文等义构造骨架（仅英文输出使用；与中文块二选一，不双语堆叠；默认压缩成二至三句）：
 
-A moderately proportioned wearable feather covering forms one continuous, shallow layered surface across the bridge and both temples. Intact feather vanes overlap across the covered facial area, with short staggered seams interrupted by neighboring vanes. The visible surface reads as distinct layered feather-shaped vanes with tapered tips, directional structure, material-specific detail and distributed shallow relief, while both eyes, eyelids and eyelashes remain completely concealed. Intact vanes cross the covered region; individual outlines and neighboring edges are staggered rather than converging into upper and lower pointed contours at eye positions. Visible ridges and hems follow interrupted transitions, with short distributed interlayer shadows under the selected lighting. Throughout the entire feather covering and its ornaments, feather arrangements, seams, shadows, colors and motifs are free of any recognizable eye imagery, including closed-eye lines, eye-shaped outlines, eyespots and abstract eye symbols. The selected layout has one clearly discernible structural anchor: the centered layout uses a decorative junction above the nose bridge, while layouts 01–10 use the specified lateral origin attached to a hair ornament, headband, crown-side component or concealed support and follow the corresponding asymmetric path. Its non-eye-shaped design, material, color, linework and craftsmanship derive from specific outfit details. Any structural support is entirely behind the feathers, including at the lower and side edges; the selected decorative anchor remains visible. Feather sizes follow the approved head-relative scale, with clear shorter supporting vanes and longer tapered primary vanes.
+Multiple distinct feather-shaped units overlap into one shallow continuous surface across the bridge and the entire orbital region. Intact units interrupt possible eye-shaped gaps so no real ocular anatomy remains visible and no part of the covering or its ornaments forms eye imagery. One clearly visible structural anchor attaches to the selected hair, head or fantasy junction and leads into the chosen layout path without cutting the continuous covering; add only the material mechanism and outer-flow change needed for the current design.
 
-上述中英文块固定覆盖、表面关系、尺度与所选锚点，不固定天然羽毛材质、羽片细节和饰件款式；输出时将颜色、羽片节奏、锚点造型、布局路径、工艺及可选延伸装饰按服饰推导结果具体展开，不能保留“呼应服装”作为空泛占位。连接可以是表面装饰连续汇合的小结点，不要求独立几何牌，中英文输出遵循同一规则。不要将诊断文件中多个补丁再次拼在本块后。不能只复制本块，必须接目标布局、形态路径和配色饰件的实际内容。织物才选卷边等工艺词，元素羽改写成实际羽流边界；输出还须明确本图材料的覆盖机制、眼区与外端受光及必要的视角关系，不能声称骨架已经替代这些内容。
+上述中英文骨架固定覆盖、尺度与所选锚点，不固定天然羽毛材质、羽片细节和饰件款式。输出时只展开当前方案中决定结果的颜色、羽片节奏、锚点、布局路径、材料遮挡机制和形态变化；服饰关联选一个可指认依据即可，不为证明完整而逐项列举。受光和视角仅在会改变遮挡、材料可读性或近远侧关系时补充。不要复制内部检查表，也不要把诊断文件中的补丁拼在骨架后。
 
 材料转译遵从主文件“材质开放与连接设计”：天然羽使用羽丝细节，金属、陶瓷、玉石、枝丫、织物、琉璃及元素羽改用各自的构造、表面和受光描述，不机械保留天然绒毛。所有材料都须在最终画面中连续遮住真实眼部，但不要求共用实体羽片底层。透明、镂空或光、水、烟、冰等材质可以直接构成眼区主体，通过同材质的层数、密度、厚度、折射或稳定体积实现视觉遮蔽；不能靠过曝、闭眼或模糊蒙混。共同块中的“佩戴式”包含现实固定与幻想凝聚两种关系，不要求元素羽伪装成现实制品。
 

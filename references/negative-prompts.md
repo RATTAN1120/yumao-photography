@@ -2,11 +2,11 @@
 
 负面词补充正向构造，不能代替它。按当前任务选用，避免把历史词库逐词累加。全局至少覆盖：真实/假眼、额外面具、单羽退化、生物翼；然后加当前 Form 与渲染所需项。
 
-中文基础禁止项（默认）：真实眼睛、眼白、瞳孔、虹膜、眼睑或睫毛可见；羽毛拼出的眼睛；整个眼羽及配饰上的任何眼睛意象，包括闭眼线、眼形孔洞或轮廓、眼睑状接缝、眼形阴影或色块、眼状斑纹、抽象眼睛符号、眼形饰件；羽毛下露出的眼孔面具或底框；单根巨羽代替多枚独立羽片；从脸部皮肤长出的生物翼。
+中文基础禁止项（默认按结构类别表达）：眶区出现可辨认的真实眼部结构；羽片、接缝、阴影、色块、纹样或饰件形成任何眼睛意象；贯穿覆盖层的眼形孔洞、观察缝或外露底框；单根巨羽代替多枚独立羽片；从脸部皮肤长出的生物翼。只有当前失败确实需要区分时，才展开瞳孔、虹膜、眼睑、睫毛、闭眼线、眼状斑纹等具体子类。
 
 中文输出将下面所选形态及渲染补充项一并转为中文，避免只翻译标题。正负段使用同一语言；不同时输出中英文两套禁止项。精简时仍保留全部核心禁止范围。
 
-英文等义基础词组（仅英文输出）：visible eyes, exposed sclera or irises or pupils, visible eyelids or eyelashes, eyes assembled from feathers, eye imagery anywhere on the feather covering or its ornaments, closed-eye lines, eye-shaped openings or outlines or markings, eyelid-shaped seams, eye-like shadows or color patches, eyespots, abstract eye symbols, eye-shaped jewelry, visible eye-mask frames beneath feathers, single giant feather replacing multiple feathers, biological wings growing from the face。精简输出也必须保留真实眼部细节、羽毛拼眼及任何眼睛意象的禁止范围。
+英文等义基础分类（仅英文输出）：recognizable ocular anatomy within the covered orbital region; any eye imagery formed by vanes, seams, shadows, color fields, motifs or ornaments; openings, viewing slits or exposed frames through the covering; one giant feather replacing multiple distinct units; biological wings growing from facial skin。只有当前失败确实需要区分时，才展开 pupils、irises、eyelids、eyelashes、closed-eye lines 或 eyespots 等具体子类。
 
 款式选择由服装推导，负面词只约束眼睛意象与实际结构失败。不要默认禁止宝石、方形、菱形、花丝、曲线、结饰或复杂配饰，也不要将“素面方扣、无宝石”视为通用修复。设计同质化应在方案比较阶段重设计，不能靠追加“禁止重复”代替具体正向方案。
 
