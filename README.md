@@ -21,6 +21,24 @@
 
 **默认只生成提示词。** 实际出图需要另行调用图像生成工具；这不是图片生成模型，也不承诺每次成图都能满足全部结构要求。
 
+### 白色蕾丝 · 日常写真
+
+白色羽饰与蕾丝裙装呼应，在街巷、洗衣房、咖啡馆和雨后天桥之间切换，用自然光、室内光与城市夜色呈现同一造型的不同氛围。
+
+| 街巷漫步 | 洗衣房 | 窗边咖啡馆 | 雨后天桥 |
+| :---: | :---: | :---: | :---: |
+| [![白色蕾丝街巷写真](assets/gallery/white-lace-street.png)](assets/gallery/white-lace-street.png) | [![白色蕾丝洗衣房写真](assets/gallery/white-lace-laundry.png)](assets/gallery/white-lace-laundry.png) | [![白色蕾丝咖啡馆写真](assets/gallery/white-lace-cafe.png)](assets/gallery/white-lace-cafe.png) | [![白色蕾丝雨后天桥写真](assets/gallery/white-lace-evening.png)](assets/gallery/white-lace-evening.png) |
+
+### 珠饰礼服 · 光影写真
+
+香槟色珠饰长裙搭配浅色眼羽与羽毛披饰，从明窗、庭院到室内休憩与暮色露台，展示羽饰轮廓、服装工艺和场景光影的配合。
+
+| 明窗肖像 | 庭院行走 | 室内坐姿 | 暮色露台 |
+| :---: | :---: | :---: | :---: |
+| [![珠饰礼服明窗写真](assets/gallery/beaded-gown-window.png)](assets/gallery/beaded-gown-window.png) | [![珠饰礼服庭院写真](assets/gallery/beaded-gown-garden.png)](assets/gallery/beaded-gown-garden.png) | [![珠饰礼服室内坐姿写真](assets/gallery/beaded-gown-lounge.png)](assets/gallery/beaded-gown-lounge.png) | [![珠饰礼服暮色露台写真](assets/gallery/beaded-gown-terrace.png)](assets/gallery/beaded-gown-terrace.png) |
+
+*以上为 AI 生成的写真示例，点击图片可查看原图。*
+
 ## 安装
 
 将本仓库完整放入支持本地技能的智能体工具的技能目录，保留 `SKILL.md`、`agents/` 和 `references/` 的相对位置。
