@@ -21,6 +21,8 @@
 - 装饰：missing selected structural anchor, selected anchor hidden by feathers or hair, oversized ornament obscuring feather structure。centered 布局可写 missing central decorative connector；布局01–10改为对应侧部锚点，不得同时强制中央扣件。装饰缺失约束不能替代正向的具体材质、造型、位置和固定方式。
 - 侧源布局：feathers growing biologically from the ear, temple or skin, floating lateral ornament with no attachment or coherent fantasy origin, one eye exposed, near-side eye exposed, far-side eye exposed, discontinuous coverage across the nose bridge, a single giant feather crossing both eyes, accidental symmetric eye frames, lateral flow collapsing into a headband。布局10按实际材料补充 insufficient material density over the eye region, glare or blur used to hide exposed eyes, elemental plume losing all feather-shaped or feather-flow structure, unrelated solid backing automatically inserted beneath an elemental design。
 
+布局09金属眼羽假眼案例补充：金属描边沿眼区形成连续弧线、对称杏仁形高对比色块、中央连接把两侧边界闭合、金属线脊与蓝色填充构成装饰性眼罩。仅在布局09或相同失败证据出现时加入；不泛化为禁止金属、蓝色或中央连接。修复优先改写眼区羽面搭接和线脊走向，不能只靠加厚背衬或重复“无眼睛”禁词。
+
 不是一律禁止中央珠宝、金银线、辅色、对称、羽轴和阴影；它们不得在整个眼羽及配饰上构成任何眼睛意象，即使单侧、非闭合或不在真实眼位也不例外。不要使用泛化的 butterfly-shaped 或 wing-shaped 禁掉已认可的整体外轮廓；另按当前 Form 限制实际形态偏离。
 
 | Form | 针对性失败项 | 不可误禁 |

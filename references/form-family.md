@@ -4,6 +4,10 @@
 
 ## 共同覆盖：所有形态必用
 
+先把眼羽视为人物面部前方的独立佩戴物，而非由眼睛变成的器官或画在皮肤上的纹样。按本图写清羽面位于眶区前方、随脸部弧度贴合或略微离肤，由选定锚点连接隐藏承托；需要时用鼻梁或颧骨附近与光源一致的轻微投影表现距离，不能强加显眼悬空间隙或漏眼侧缝。人物正常眼部在后方被遮挡，不要求删除眼睛，也不必在正文描绘被遮住的眼睛细节。元素方案改写为面前凝聚的羽流及其光照关系，不强迫实体头带或接触阴影。
+
+“前后图层”可作为规划概念，但普通提示词不代表生成器执行真实分层合成。空间遮挡解决真眼可见性；羽面上的假眼意象仍须独立处理。墨镜、眼罩仅帮助理解遮挡，不默认写入成品，以免替换成常规镜框或眼罩。
+
 一个连续的浅层多羽片表面跨过鼻梁及眼区，与外羽平滑衔接。主羽相对辅羽更长，不等于横向无限延伸。默认 centered 布局在中央自然汇合并保留可辨认的连接；布局01–10按 [侧源非对称布局](side-origin-layouts.md) 保留可辨认的侧部锚点，不按左右眼睛分别建模。
 
 保持所选材质的羽片表面细节和短小分散的层间阴影；较完整的羽面跨过可能成眼形的缝，打断相对羽缘围成的长梭形区域。薄不等于根部覆盖不足，小尺寸优先调外延而非把根部统一缩到露眼。承托在羽毛背面完全隐藏；不能在羽毛下额外生成可见眼孔面具。
@@ -23,11 +27,11 @@
 
 共同中文构造骨架（结合实际材质改写，随后接一个形态路径；默认压缩成二至三句，不逐项复制内部检查内容）：
 
-多枚独立羽形单元错位搭接，形成跨过鼻梁并连续覆盖整个眶区的浅层表面；完整单元跨压可能形成眼形的缝隙，真实眼部完全不可见，整个眼羽及配饰不出现任何眼睛意象。所选布局的结构锚点清楚连接发饰、头带、冠侧构件或幻想凝聚点，并沿对应路径展开；承托隐藏，锚点装饰不切开连续覆盖层。再按实际材料补充一种决定遮挡与质感的机制，并接当前形态的外侧羽流变化。
+眼羽作为独立饰物佩戴在眶区前方，多枚羽形单元错位搭接，沿脸部弧度跨过鼻梁，连续遮住后方真实眼部；完整单元跨压可能形成眼形的接缝，整个眼羽及配饰不出现任何眼睛意象。可辨认锚点连接本图选定的发饰、头带或冠侧构件，承托隐藏，饰件不切开覆盖层；元素方案改为相应凝聚关系。结合本副设计的轮廓特色、当前形态羽流和实际材料，写出有辨识度的层叠或工艺，并按机位与光源说明必要的贴合、投影或反光关系。
 
 英文等义构造骨架（仅英文输出使用；与中文块二选一，不双语堆叠；默认压缩成二至三句）：
 
-Multiple distinct feather-shaped units overlap into one shallow continuous surface across the bridge and the entire orbital region. Intact units interrupt possible eye-shaped gaps so no real ocular anatomy remains visible and no part of the covering or its ornaments forms eye imagery. One clearly visible structural anchor attaches to the selected hair, head or fantasy junction and leads into the chosen layout path without cutting the continuous covering; add only the material mechanism and outer-flow change needed for the current design.
+The ornament sits independently in front of the orbital region, with overlapping feather-shaped units following the face across the nose bridge and occluding the real eyes behind it. Intact units interrupt possible eye-shaped seams; neither the covering nor its ornaments forms eye imagery. A visible structural anchor attaches to the chosen hair or head support, which remains concealed; translate this into a coherent condensation relationship for elemental designs. Describe the distinctive silhouette, feather flow and material craft of this design, adding only the fit, shadow or reflection relationships needed for the current view and light.
 
 上述中英文骨架固定覆盖、尺度与所选锚点，不固定天然羽毛材质、羽片细节和饰件款式。输出时只展开当前方案中决定结果的颜色、羽片节奏、锚点、布局路径、材料遮挡机制和形态变化；服饰关联选一个可指认依据即可，不为证明完整而逐项列举。受光和视角仅在会改变遮挡、材料可读性或近远侧关系时补充。不要复制内部检查表，也不要把诊断文件中的补丁拼在骨架后。
 
