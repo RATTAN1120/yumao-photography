@@ -1,0 +1,80 @@
+[
+  {
+    "key": "centered-closed",
+    "title": "中央连接 · 收束",
+    "desc": "横向顺叠，低张角；保留渐细外延。",
+    "kind": "base"
+  },
+  {
+    "key": "centered-open",
+    "title": "中央连接 · 开羽",
+    "desc": "外端增大张角，覆盖与中央饰品保持。",
+    "kind": "base"
+  },
+  {
+    "key": "centered-draped",
+    "title": "中央连接 · 垂羽",
+    "desc": "脸侧连续下弯，鼻尖与嘴唇露出。",
+    "kind": "base"
+  },
+  {
+    "key": "centered-wrap",
+    "title": "中央连接 · 环覆",
+    "desc": "沿太阳穴向后包覆；俯视用于解释弧向长度。",
+    "kind": "base"
+  },
+  {
+    "key": "layout-01",
+    "title": "旧布局 01",
+    "desc": "水平跨面，远端渐细",
+    "kind": "side"
+  },
+  {
+    "key": "layout-02",
+    "title": "旧布局 02",
+    "desc": "低位起始，向对侧眉上斜行",
+    "kind": "side"
+  },
+  {
+    "key": "layout-03",
+    "title": "旧布局 03",
+    "desc": "跨面后下弯：垂羽预设",
+    "kind": "side"
+  },
+  {
+    "key": "layout-04",
+    "title": "旧布局 04",
+    "desc": "跨面后上扬：开羽预设",
+    "kind": "side"
+  },
+  {
+    "key": "layout-05",
+    "title": "旧布局 05",
+    "desc": "上下分流，中间仍有羽面覆盖",
+    "kind": "side"
+  },
+  {
+    "key": "layout-06",
+    "title": "旧布局 06",
+    "desc": "主流跨面＋短辅流回折耳后",
+    "kind": "side"
+  },
+  {
+    "key": "layout-07",
+    "title": "旧布局 07",
+    "desc": "主连接＋较小辅助固定",
+    "kind": "side"
+  },
+  {
+    "key": "layout-08",
+    "title": "旧布局 08",
+    "desc": "冠侧下降进入眼区",
+    "kind": "side"
+  },
+  {
+    "key": "layout-09",
+    "title": "旧布局 09",
+    "desc": "耳后绕太阳穴向前覆盖",
+    "kind": "side"
+  }
+]

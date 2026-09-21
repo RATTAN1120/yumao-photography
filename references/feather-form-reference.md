@@ -1,31 +1,43 @@
-# 参考登记：各图只负责指定维度
+# 参考登记：用途与证据分开
 
-本登记同时是证据分级表。参考图只在登记的维度内生效；没有登记为当前活动证据的旧图，不得因为文件名、历史认可或曾经出现过而自动进入正向提示词。
+## 低保真结构说明（本次新建，未获用户视觉验收）
 
-## 默认查看
+[HTML比较页](structure-atlas.html)默认展示中央连接四形态；可切换侧源预设、隐藏辅助线。SVG是可维护原图，PNG为同图兼容副本。斜侧是投影示意，环覆增加俯视，不是严密三维模型。只用于理解结构，不锁定颜色、饰品款式、羽片数量或精确比例。
 
-本登记的结构与尺寸参考不锁定天然羽毛材质、中央花朵或珍珠。新设计可采用金属、织物、琉璃或元素化羽片，按主文件的材料规则转译纹理与受光，仍保留参考负责的形态和尺度；不能将新材质探索称为已有成功图验证。
+| 中央连接 | SVG | PNG |
+| --- | --- | --- |
+| 收束 | [原图](structure/centered-closed.svg) | [副本](structure/centered-closed.png) |
+| 开羽 | [原图](structure/centered-open.svg) | [副本](structure/centered-open.png) |
+| 垂羽 | [原图](structure/centered-draped.svg) | [副本](structure/centered-draped.png) |
+| 环覆 | [原图](structure/centered-wrap.svg) | [副本](structure/centered-wrap.png) |
 
-- [认可尺寸](feather-scale-approved.png)：当前仍为活动尺寸证据，但仅支持头部相对尺度、窄眼带和薄层体量。不是所有 Form、布局、机位或完整图像质量的通用金标准。详见 [尺寸规则](feather-scale.md)。
-- [结构正面](closed-baseline-front.jpg)、[结构近景](closed-baseline-detail.jpg)：用户认可的收束形状，提供完整羽面、顺向叠层与中央过渡；不沿用其大跨度。
-- [视频侧面](closed-baseline-video-side.jpg)：原视频约28秒，辅助观察侧视与空间层次；有裁切，不作为完整入镜验收例。不能据此确认原作者制作工艺或逐帧稳定性。
+侧源01–09见下表，仅明确选择侧源时查看。旧10是材料探索，不另造一个没有路径的结构图。适配限制见[编号兼容](side-origin-layouts.md)。
 
-查看时区分人物、头发、尖耳、头冠和羽片。只继承指定维度，不复制字幕、脸、衣服和背景。认可图中央也有汇合和小装饰，不能把这些特征本身当作失败。
+| 旧预设 | SVG | PNG |
+| --- | --- | --- |
+| 01 | [原图](structure/layout-01.svg) | [副本](structure/layout-01.png) |
+| 02 | [原图](structure/layout-02.svg) | [副本](structure/layout-02.png) |
+| 03 | [原图](structure/layout-03.svg) | [副本](structure/layout-03.png) |
+| 04 | [原图](structure/layout-04.svg) | [副本](structure/layout-04.png) |
+| 05 | [原图](structure/layout-05.svg) | [副本](structure/layout-05.png) |
+| 06 | [原图](structure/layout-06.svg) | [副本](structure/layout-06.png) |
+| 07 | [原图](structure/layout-07.svg) | [副本](structure/layout-07.png) |
+| 08 | [原图](structure/layout-08.svg) | [副本](structure/layout-08.png) |
+| 09 | [原图](structure/layout-09.svg) | [副本](structure/layout-09.png) |
 
-## 历史资源：非默认生成参考
+## 已有真实图片：限定维度的证据
 
-以下文件保留用于追溯，不因文件名 approved 就视为当前全项通过，也不作为默认正向参考：
+- [收束正面](closed-baseline-front.jpg)、[局部](closed-baseline-detail.jpg)：用户认可的羽面、顺向叠层与中央过渡；旧图跨度不作默认尺寸。
+- [侧面](closed-baseline-video-side.jpg)：原视频约28秒画面，辅助观察空间层次；有裁切，不是完整构图或逐帧稳定性证据。
+- [尺寸参考](feather-scale-approved.png)：只支持相对头部的克制跨度、窄眼带与薄层体量。头部倾斜及发饰遮挡使固定脸宽倍率不可靠，不用于所有形态与机位。
+- [大越皇后设计范本](dayue-empress-exemplar.md)：按需查看服饰工艺、材料与动作联系，不能自动继承配色和款式，不等于每张眼羽全项通过。
 
-- [旧外展1](feather-extended-approved-1.png)、[旧薄长2](feather-extended-approved-2.png)、[旧多层3](feather-extended-approved-3.png)、[旧外延4](feather-extended-approved-4.png)：旧形态探索，当前尺度和眼形标准须另查；不能声称是本轮规则的成功图。
-- [旧短羽反例](feather-eye-patch-rejected.png)：只用于辨别外延不足，不能据此推导“所有短小羽饰都失败”。
-- [旧室内配色](connector-color-indoor.png)、[旧室外配色](connector-color-outdoor.png)：仅可观察服饰材料关系，不继承其结构、眼位、饰件位置或尺寸。当前配饰直接从目标服装推导。
+第一次使用或参考变化时实际看图。区分头发、尖耳、头冠与羽片。没有四形态全部通过的真实效果图证据，不能把新示意图或旧认可尺寸升级为这种证据。
 
-## 失败证据
+## 历史与失败材料（不进入默认生成参考）
 
-[案例对照登记](case-evidence.md) 保存局部、原图及证据范围。不得将失败图作为新的羽饰正向参考。诊断机制见 [eye-seam-repair.md](eye-seam-repair.md)，正向构造统一在 [form-family.md](form-family.md)。
+[旧外展1](feather-extended-approved-1.png)、[旧薄长2](feather-extended-approved-2.png)、[旧多层3](feather-extended-approved-3.png)、[旧外延4](feather-extended-approved-4.png)保留追溯；文件名approved不构成现行全项通过。
 
-## 连接与配色参考
+[旧短羽反例](feather-eye-patch-rejected.png)只说明特定外延不足，不能禁止所有小尺寸；[室内配色](connector-color-indoor.png)、[室外配色](connector-color-outdoor.png)只参考材料关系。失败图与局部记录见[案例登记](case-evidence.md)，不当作正向结构。
 
-用户指定的 [大越皇后8张范本示图](dayue-empress-exemplar.md#八张用户指定范本示图) 可用于服装—眼羽整体设计、非天然材质表现、动作与场景一致性。按需要选图查看；每张的颜色、形态、连接和服饰变化见登记，不替换通用尺寸基准，不自动把多个变体拼成严格同款。
-
-以当前服装而非旧图为主：白金刺绣可用细金连接；蓝白冷色服装可用协调浅蓝和细银/服装已有金属；玉饰可用小玉连接；深色服装可用深色羽面与微量辅色。场景只微调光色。所选布局的结构锚点必须存在且可辨认：centered 为中央连接，布局01–10为对应侧部锚点；具体材料不强制为金线、玉或白色，精细装饰不得成为眼形框或遮没羽片。隐藏的是承托，不是所选锚点装饰。
+新构造、教学图、照片认可、当前模型出图四种状态分开记录。参考必须随技能包提供，路径存在不等于Agent或生成器实际看过。

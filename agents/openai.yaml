@@ -1,4 +1,4 @@
 interface:
   display_name: "yumao摄影"
   short_description: "支持收束、开羽、垂羽和环覆，以多羽片遮眼设计生成角色摄影提示词"
-  default_prompt: "使用 $yumao-photography 为雷电将军设计真人COS韩系摄影提示词，开羽，羽毛一致性=strict，ratio=9:16，8K目标，n=3。"
+  default_prompt: "使用 $yumao-photography 为明确成年角色设计同款服装的中央连接四形态摄影提示词，保留工艺家族，动作与场景按要求变化。"
